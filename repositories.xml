@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[gentoo-overlay]]></name>
+    <description lang="en"><![CDATA[Personal jbcjorge overlay]]></description>
+    <homepage>http://github.com/jbcjorge/gentoo-overlay</homepage>
+    <owner type="person">
+      <email>jbcjorge@gmail.com</email>
+      <name><![CDATA[Jorge Millán]]></name>
+    </owner>
+    <source type="git">git://github.com/jbcjorge/gentoo-overlay.git</source>
+    <feed>http://github.com/jbcjorge/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
